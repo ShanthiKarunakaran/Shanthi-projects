@@ -1,4 +1,4 @@
-Shanthi-projects
+Udacity-projects
 ================
 
 Projects added to github
