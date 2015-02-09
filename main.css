@@ -6,11 +6,11 @@ body {
     box-sizing: border-box;
 }
 
-/* Header */
 body, h1 {
     color: #666;
 }
 
+/* Header */
 h1 {
     font-size: 48px;
     margin: 45px 0 25px 0px;
