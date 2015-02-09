@@ -1,17 +1,13 @@
-* {
+body {
+    font: 16px verdana, sans-serif;
+    line-height: 2;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 
-body {
-    font: 16px verdana, sans-serif;
-    color: #666;
-    line-height: 2;
-}
-
 /* Header */
-*, h1 {
+body, h1 {
     color: #666;
 }
 
@@ -48,22 +44,18 @@ p:last-child {
     margin-top: 28px;
 }
 
-.img-desc > ul {
-    margin: 0px;
+.img-list {
+    margin-left: 37px;
 }
 
-.img-desc > h2 {
+.img-title {
     margin: 29px 0 0 30px;
 }
 
-.img-desc > ul li:first-child {
+.first-item {
     margin-top: 30px;
 }
 
-.img-desc > ul li {
-    margin: 0 0 0 30px;
-}
-
-.img-desc > ul li:last-child {
-    padding-bottom: 40px;
+.last-item {
+    padding-bottom: 31px;
 }
